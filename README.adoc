@@ -1,6 +1,6 @@
 Exemplo em http://groovy-lang.org/[groovy] de envio de SMS pela https://www.zenvia.com/[Zenvia].
 
-*Como Rodar*
+*Como Rodar:*+
 `groovy sample.groovy`
 
 ### Links
@@ -10,5 +10,5 @@ Exemplo em http://groovy-lang.org/[groovy] de envio de SMS pela https://www.zenv
 * https://adamatti.github.io/blog/groovy/2017/07/09/groovy.html[Post sobre Groovy]
 
 ### Outras Implementações
-* Implementação de SDK em Java: https://github.com/fredrhae/java-zenvia-sms-sdk[fredrhae] e https://github.com/ThafarelCamargo/spring-boot-sms-zenvia[ThafarelCamargo]
+* Implementação de SDK em Java: https://github.com/fredrhae/java-zenvia-sms-sdk[fredrhae], https://github.com/ThafarelCamargo/spring-boot-sms-zenvia[ThafarelCamargo] e https://github.com/leopoa/zenvia/tree/master/zenvia-spring-boot-api[leopoa]
 * https://github.com/zenvia/zenvia-sms-core/[Implementação oficial em node] ( https://www.npmjs.com/package/@zenvia/zenvia-sms-core[NPM] )
